@@ -4,7 +4,7 @@
 
 @font-face{
   font-family: 'Hickory Jack';
-  src: url(/hero-section/fonts/Hickory\ Jack.ttf);
+  src: url(/maryjosetteacademy/fonts/Hickory\ Jack.ttf);
 }
 
 *,*::after,*::before{
@@ -290,7 +290,7 @@ nav li:nth-of-type(6) a:hover, .hero a:hover{
 .admission-banner{
     height: 100vh;
     width: 100%;
-    /* background-image: url(/hero-section/src/adv.png);
+    /* background-image: url(/maryjosetteacademy/src/adv.png);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: contain; */
@@ -399,7 +399,7 @@ nav li:nth-of-type(6) a:hover, .hero a:hover{
     padding: 1.75em;
     /* display: flex;
     flex-wrap: wrap; */
-    background: rgba(0, 0, 0, 0.8) url(/hero-section/src/programs-BG.jpg);
+    background: rgba(0, 0, 0, 0.8) url(/maryjosetteacademy/src/programs-BG.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
